@@ -27,7 +27,7 @@ export default function FAQ(): ReactElement {
               Paul McKellar
             </a>
             . At release, anyone could claim up to 2 decks for just gas, and the
-            first decks were claimed in under 14 minutes. Each deck 45 cards to play:
+            first decks were claimed in under 14 minutes. Each deck comes with 45 cards to play with:
             common cards (for playability) and rares to keep it interesting.
           </p>
           <p>
